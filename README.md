@@ -1,3 +1,3 @@
 # Demo
 
-This repo is for Github introduction training. 
+This repo is for Github introduction training only. 
